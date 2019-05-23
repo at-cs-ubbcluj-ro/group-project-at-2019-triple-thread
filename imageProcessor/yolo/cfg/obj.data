@@ -1,0 +1,7 @@
+classes= 2 
+train  = train.txt  
+valid  = test.txt  
+names =  ../yolo/data/obj.names
+backup = two-object/
+
+

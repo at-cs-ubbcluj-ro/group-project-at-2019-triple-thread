@@ -1,0 +1,5 @@
+classes= 3
+train  = train3.txt  
+valid  = test3.txt  
+names =  ../yolo/data/obj3.names
+backup = three-object/
