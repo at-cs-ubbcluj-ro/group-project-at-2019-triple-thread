@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyParking</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Support: delibas.stefan@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Plates Manager</string>
+    <string name="title_activity_manage_plates">Manager</string>
+</resources>
