@@ -2,8 +2,9 @@ Please use this repository to maintain your work for the team project.
 
 Also please fill the following details:
 
-- Team name:
-- Students (SCS username - Name):
+- Team name: Triple thread
+- Students (SCS username - Name):	dsie2103 Delibas Stefan
+									siie2230 Szuhai Iulia Monica
 
 Project idea:
 
